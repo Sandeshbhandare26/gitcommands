@@ -1,0 +1,5 @@
+git configure --global user.name ""
+git configure --global user.email ""
+
+if issue
+credential manager -> windows cred-> remove github
