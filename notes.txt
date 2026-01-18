@@ -14,3 +14,13 @@ list
 git log //shows every commit (will show logs)
 git branch //shows current branchs
 git branch <branch> //creates new branch
+git checkout <branch> //switch to the branch
+git checkout -b <branch>  //create and switch to the branch
+git diff  <branch1> <branch2> //difference between 2 branches (branch2 displayed)
+git branch -m <oldname> <newname> //rename
+git branch -d <branch> //delete the branch
+git cherry-pick <commit id> 
+git merge 
+git revert <commit id>
+git reset //--soft (till add) --mixed(cant be seen in logs) --hard(completly deletes)
+git rebase //
