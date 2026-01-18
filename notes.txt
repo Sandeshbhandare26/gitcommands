@@ -1,0 +1,5 @@
+open source
+source code
+vcs-version controll system
+central vcs and distributed vcs
+mercurrian and git 
