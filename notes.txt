@@ -2,7 +2,7 @@ open source
 source code
 vcs-version controll system
 central vcs and distributed vcs
-mercurrian and git 
+mercurrian and git //bitkeeper used by linus travold
 git 4 stages-umarked modified unmodified satged 
 git vs github -(opensource vs closedsource) git can be used without github but github cant be used without git
 git tokens
@@ -10,3 +10,7 @@ git init
 linux commands
 git config --global user.name ""
 git config --global user.email ""
+list
+git log //shows every commit (will show logs)
+git branch //shows current branchs
+git branch <branch> //creates new branch
