@@ -3,3 +3,5 @@ source code
 vcs-version controll system
 central vcs and distributed vcs
 mercurrian and git 
+git 4 stages-umarked modified unmodified satged 
+git vs github -(opensource vs closedsource) git can be used without github but github cant be used without git
